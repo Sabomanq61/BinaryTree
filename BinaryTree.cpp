@@ -1,5 +1,7 @@
-// BinaryTree.cpp: определяет точку входа для консольного приложения.
-//
+/*
+*
+* by Sabomanq (c) 
+*/
 
 #include <iostream>
 using namespace std;
